@@ -20,7 +20,7 @@ Ensure you have [Ollama](https://ollama.com/) installed and running on your mach
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mrllama.git
+git clone https://github.com/drkkahraman/mrllama.git
 cd mrllama
 ```
 
