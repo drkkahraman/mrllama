@@ -1,9 +1,6 @@
-# MrLlama 🦙
+# MrLlama 🦙 1.0
 
-A premium, minimalist, and high-performance local AI interface for [Ollama](https://ollama.ai/). Designed with a focus on simplicity, privacy, and smooth user experience.
-
-![MrLlama Interface](https://raw.githubusercontent.com/yourusername/mrllama/main/screenshot.png) *(Note: Replace with your actual screenshot after uploading to GitHub)*
-
+A premium, minimalist, and high-performance local AI interface for [Ollama](https://ollama.com/). Designed with a focus on simplicity, privacy, and smooth user experience.
 ## ✨ Features
 
 - **Minimalist & Clean UI**: Built with pure Vanilla CSS for a lightweight and "Apple-style" distraction-free interface.
@@ -18,7 +15,7 @@ A premium, minimalist, and high-performance local AI interface for [Ollama](http
 
 ### 1. Prerequisites
 
-Ensure you have [Ollama](https://ollama.ai/) installed and running on your machine.
+Ensure you have [Ollama](https://ollama.com/) installed and running on your machine.
 
 ### 2. Clone the Repository
 
