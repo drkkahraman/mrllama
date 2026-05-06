@@ -1,6 +1,6 @@
 # MrLlama 1.0 🦙
 
-A premium, minimalist, and high-performance local AI interface for [Ollama](https://ollama.com/). Designed with a focus on simplicity, privacy, and smooth user experience.
+A premiu and minimalist and high-performance local AI interface for [Ollama](https://ollama.com/). Designed with a focus on simplicity, privacy, and smooth user experience.
 ## Features
 
 - **Minimalist & Clean UI**: Built with pure Vanilla CSS for a lightweight and "Apple-style" distraction-free interface.
